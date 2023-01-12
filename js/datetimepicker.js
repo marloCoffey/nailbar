@@ -16,17 +16,17 @@
 					"Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"
 				]
 			},
-			zh: { //Simplified Chinese (简体中文)
+			fr: { // Francais
 				months: [
-					"一月", "二月", "三月", "四月", "五月", "六月", "七月", "八月", "九月", "十月", "十一月", "十二月"
+					"Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Decembre"
 				],
 				dayOfWeek: [
-					"日", "一", "二", "三", "四", "五", "六"
+					"Dim", "Lun", "Mar", "Mer", "Jeu", "Ven", "Sam"
 				]
 			}
 		},
 		value: '',
-		lang: 'zh',
+		lang: 'fr',
 
 		format:	'Y/m/d H:i',
 		formatTime:	'H:i',
